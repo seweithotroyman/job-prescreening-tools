@@ -26,7 +26,7 @@ Proyek ini adalah sistem **AI-powered pre-screening** yang membantu pelamar kerj
 
 | Layer        | Teknologi                 |
 |--------------|---------------------------|
-| Framework    | Laravel 11 + Livewire     |
+| Framework    | Laravel 12 + Livewire     |
 | Front-End    | Tailwind CSS              |
 | AI Backend   | OpenAI GPT-4 API          |
 | Auth         | Jetstream (Sanctum + Verified) |
