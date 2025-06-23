@@ -36,13 +36,6 @@ Proyek ini adalah sistem **AI-powered pre-screening** yang membantu pelamar kerj
 
 ---
 
-## ⚙️ Cara Menjalankan Proyek
-
-1. **Clone repo:**
-```bash
-git clone https://github.com/seweithotroyman/job-prescreening-tools.git
-cd nama-project
-```
 
 ## ⚙️ Cara Menjalankan Proyek
 
